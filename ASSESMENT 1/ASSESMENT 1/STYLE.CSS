@@ -1,0 +1,10 @@
+body { 
+    background-color: rgb(169, 185, 200);
+}
+h1{
+    color: rgb(229, 17, 17);
+    text-decoration: underline;
+}
+#Registered{
+    background-color: rgb(25, 221, 25);
+}
